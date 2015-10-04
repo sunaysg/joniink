@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <SurfaceView
+        android:layout_width="fill_parent"
+        android:layout_height="300dp"
+        android:id="@+id/camerapreview"
+        android:layout_margin="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/btnTakePhoto"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/camerapreview"
+        android:scaleType="centerInside" />
+
+    <ImageView
+        android:id="@+id/kutiyka"
+        android:layout_width="150dp"
+        android:layout_below="@+id/btnTakePhoto"
+        android:layout_height="150dp" />
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:text="Next"
+        android:id="@+id/nextbutton"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignTop="@+id/camerapreview"
+        android:layout_alignStart="@+id/camerapreview"
+        android:layout_alignBottom="@+id/camerapreview"
+        android:layout_alignRight="@+id/camerapreview"
+        android:visibility="gone" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Joni/AndroidStudioProjects/JoniInk/Joni%20Ink/src/main/res/layout/addtattoo1.xml -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@drawable/back">
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="New Tattoo Order"
+    android:id="@+id/tattooorder"
+    android:layout_gravity="center"
+    android:layout_marginTop="44dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="New Piercing Order"
+    android:id="@+id/piercingorder"
+    android:layout_gravity="center"
+    android:layout_marginTop="10dp"
+    android:layout_below="@+id/tattooorder"
+    android:layout_centerHorizontal="true" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Order List"
+    android:id="@+id/orderlistbutton"
+    android:layout_gravity="center"
+    android:layout_marginTop="10dp"
+    android:layout_below="@+id/piercingorder"
+    android:layout_centerHorizontal="true" />
+</RelativeLayout><!-- From: file:/C:/Users/Joni/AndroidStudioProjects/JoniInk/Joni%20Ink/src/main/res/layout/user_main.xml -->

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res" >
+            <file
+                name="back"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\back.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="base"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\base.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="basepressed"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\basepressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="logo"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\logo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="longbut"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\longbut.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="longbutpressed"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\longbutpressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="newadminbut"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\newadminbut.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="newadminbutpressed"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\newadminbutpressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="newuserbut"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\newuserbut.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="newuserbutpressed"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable\newuserbutpressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\drawable-xxxhdpi\ic_launcher.png"
+                qualifiers="xxxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addpiercing1"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addpiercing1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addpiercing2"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addpiercing2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addpiercing3"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addpiercing3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addpiercing4"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addpiercing4.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addtattoo1"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addtattoo1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addtattoo2"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addtattoo2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addtattoo3"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addtattoo3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="addtattoo4"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\addtattoo4.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="admin_main"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\admin_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_all"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\fragment_all.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_piercing"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\fragment_piercing.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_tattoo"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\fragment_tattoo.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="login_screen"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\login_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="orderlistmenu"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\orderlistmenu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="orderpiercing1"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\orderpiercing1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="orderpiercing2"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\orderpiercing2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="orderpiercing3"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\orderpiercing3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ordertattoo1"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\ordertattoo1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ordertattoo2"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\ordertattoo2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ordertattoo3"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\ordertattoo3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ordertattoo4"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\ordertattoo4.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ordertattoo5"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\ordertattoo5.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="password_field"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\password_field.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="piercingpage"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\piercingpage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tattoopage"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\tattoopage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="user_main"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\layout\user_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Joni Ink
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\build\res\rs\debug" />
+        <source path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Joni\AndroidStudioProjects\JoniInk\Joni Ink\src\debug\res" />
+    </dataSet>
+
+</merger>

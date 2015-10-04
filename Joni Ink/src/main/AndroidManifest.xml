@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="joni.tattoo.studio" >
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="joni.tattoo.studio.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="joni.tattoo.studio.LoginScreen"></activity>
+        <activity android:name="joni.tattoo.studio.AdminMain"></activity>
+        <activity android:name="joni.tattoo.studio.UserMain"></activity>
+        <activity android:name="joni.tattoo.studio.AddTattoo1"></activity>
+        <activity android:name="joni.tattoo.studio.AddTattoo2"></activity>
+        <activity android:name="joni.tattoo.studio.AddTattoo3"></activity>
+        <activity android:name="joni.tattoo.studio.AddTattoo4"></activity>
+        <activity android:name="joni.tattoo.studio.AddPiercing1"></activity>
+        <activity android:name="joni.tattoo.studio.AddPiercing2"></activity>
+        <activity android:name="joni.tattoo.studio.AddPiercing3"></activity>
+        <activity android:name="joni.tattoo.studio.AddPiercing4"></activity>
+        <activity android:name="joni.tattoo.studio.TattooPage"></activity>
+        <activity android:name="joni.tattoo.studio.PiercingPage"></activity>
+        <activity android:name="joni.tattoo.studio.OrderTattoo1"></activity>
+        <activity android:name="joni.tattoo.studio.OrderTattoo2"></activity>
+        <activity android:name="joni.tattoo.studio.OrderTattoo3"></activity>
+        <activity android:name="joni.tattoo.studio.OrderTattoo4"></activity>
+        <activity android:name="joni.tattoo.studio.OrderTattoo5"></activity>
+        <activity android:name="joni.tattoo.studio.OrderPiercing1"></activity>
+        <activity android:name="joni.tattoo.studio.OrderPiercing2"></activity>
+        <activity android:name="joni.tattoo.studio.OrderPiercing3"></activity>
+        <activity android:name="joni.tattoo.studio.OrderList"></activity>
+
+    </application>
+
+</manifest>
